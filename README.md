@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Yasin</h1>
 <h3 align="center">Mobile Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yasinyucetas&label=Profile%20views&color=0e75b6&style=flat" alt="yasinyucetas" /> </p>
-
 - 🌱 I’m currently learning **Flutter and Dart**
 
 - 📫 How to reach me **yasinyucetas2@gmail.com**
@@ -16,4 +14,4 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> </p>
