@@ -1,0 +1,51 @@
+void main() {
+  
+  String ad= "Beyza"; //String ifade tanımlama
+  int yas=21; //int değişken tanımlamak
+  double boy=1.70;
+  bool yetiskinMi=true;
+  
+  var a=12;
+  print(a); //ekrana a değişkenini bastır
+  a=25;
+  print(a);
+  
+  dynamic c=88;
+  print(c);
+  c="asd";
+  print(c);
+  
+  const b=50; //const kullanımı
+  print(b);
+  
+}
+///////
+
+void main() {
+  
+  var ilkDegisken=25;
+  
+  //değişkeni bastırmak
+  print(ilkDegisken);
+  
+  //Değişkeni String ifadeyle birlikte bastırmak
+  print("Benim ilk değişkenim: $ilkDegisken");
+  
+  //Değişkene işlem uygulayıp bastırmak
+  print("Benim ilk değişkenimin 10 eklenmiş hali: ${ilkDegisken+10}");
+}
+
+///////////////////////////////////////////////////////////////////////////////
+
+void main(){
+  //Listeyi tanımlamak
+  List<String> gunler=['Pazartesi',
+                       'Salı',
+                       'Çarşamba',
+                       'Perşembe',
+                       'Cuma',
+                       'Cumartesi',
+                       'Pazar'];
+}
+/////////////////////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////////////////////////////////
