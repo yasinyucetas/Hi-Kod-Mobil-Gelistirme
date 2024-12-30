@@ -9,4 +9,3 @@ void main() {
   print(gunler[2]);
   print("Günler listesinin 3.elemanı: ${gunler[2]}");
   }
-}
